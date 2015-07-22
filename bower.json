@@ -1,6 +1,27 @@
 {
   "name": "jquery-rotate-enk",
-  "version": "0.0.2",
+  "description": "This fork of jquery-rotate has more features to let you have incremental and absolute rotation. Tiny package works through css3.",
+  "keywords": [
+    "jquery",
+    "rotate",
+    "css3",
+    "tiny"
+  ],
+  "authors": [
+    {
+      "name": "Daniel Williams",
+      "email": "enknamel@gmail.com"
+    },
+    {
+      "name": "Johannes Schickling",
+      "email": "schickling.j@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enknamel/jquery-rotate"
+  },
+  "version": "0.0.3",
   "main": "dist/jquery.rotate.js",
   "dependencies": {
     "jquery": ">=1.9.0"
