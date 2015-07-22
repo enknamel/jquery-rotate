@@ -1,7 +1,7 @@
 {
   "name": "jquery-rotate-enk",
-  "version": "0.0.1",
-  "main": "jquery.rotate.js",
+  "version": "0.0.2",
+  "main": "dist/jquery.rotate.js",
   "dependencies": {
     "jquery": ">=1.9.0"
   }

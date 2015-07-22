@@ -1,5 +1,5 @@
 /**
- * jquery-rotate v0.0.1
+ * jquery-rotate v0.0.2
  *  Very lightweight jquery rotate plugin using CSS 3 Transformation
  *  https://github.com/enknamel/jquery-rotate
  */
