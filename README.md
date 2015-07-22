@@ -3,10 +3,12 @@ jquery-rotate
 
 Very lightweight jquery rotate plugin using CSS 3 Transformation
 
+This fork has significant changes and improvements I needed for my own projects. Also published to bower.
+
 ## Installation
 
 ```
-bower install jquery-rotate
+bower install jquery-rotate-enk
 ```
 
 ## Usage
